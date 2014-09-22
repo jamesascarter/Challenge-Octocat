@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The "upstream" remote points to the original repo created in github from your local repo.Upstream is the name fro the main repo and is from where you pull and clone your updated fork.
